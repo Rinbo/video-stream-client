@@ -41,7 +41,7 @@ export class StreamCreate extends Component {
           component={this.renderInput}
           label="Enter Description"
         />
-        <button className="ui button primary">Press me</button>
+        <button className="ui button primary">Add</button>
       </form>
     );
   }
